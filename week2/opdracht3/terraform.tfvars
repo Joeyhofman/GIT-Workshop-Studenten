@@ -1,0 +1,6 @@
+esxi_host       = "192.168.1.20"
+esxi_user       = "root"
+esxi_password   = "Infra123#"
+disk_store      = "datastore1"
+virtual_network = "VM Network"
+ssh_public_key_path = "~/.ssh/terraform.pub"
