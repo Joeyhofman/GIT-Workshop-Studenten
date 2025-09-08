@@ -1,0 +1,86 @@
+# .NET Core/ASP.NET Core
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider settings
+.idea/
+.idea_modules/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/description.html
+.idea/**/contentModel.xml
+.idea/**/modules.xml
+.idea/**/vcs.xml
+.idea/**/settings.jar
+
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+.vscode-test/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Rider and VS Generated Files
+_ReSharper*/  
+resharper.xml
+_ReSharper.Caches
+.idea/.idea_modules/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]uild/
+[Ll]ogs/
+*.dll
+*.exe
+*.app
+*.msi
+*.pdb
+
+# Package directories
+*.nupkg
+*.snupkg
+*.nuspec
+.packages/
+
+# JetBrains Rider Backend
+backend/
+
+# DotNet Global Tool package install location
+.dotnet_tool/
+
+# User secrets
+secrets.json
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Other
+*.ide.sh
+
+# Rider logs
+logs/
+log/
+.idea_modules/
