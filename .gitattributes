@@ -1,0 +1,10 @@
+# Forceer LF in repo
+* text=auto eol=lf
+
+# Binaries (geen diff)
+*.png binary
+*.jpg binary
+*.pdf binary
+
+# (Optioneel) GitHub Linguist overrides
+docs/** linguist-documentation
